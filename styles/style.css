@@ -24,6 +24,8 @@
 }
 
 .nav__logo {
+  width: 58px;
+  height: 80px;
 }
 
 .nav__links {
@@ -46,9 +48,17 @@
 }
 
 .header__title {
+  font-size: 62px;
+  line-height: 76px;
+  max-width: 635px;
+  margin: 128px 0 0;
 }
 
 .header__description {
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 515px;
+  margin: 32px 0 0;
 }
 
 .header__image {
