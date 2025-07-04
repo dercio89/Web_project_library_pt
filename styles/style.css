@@ -48,8 +48,8 @@
 }
 
 .header__title {
+  font-weight: 500;
   font-size: 62px;
-  font-weight: 500px;
   line-height: 76px;
   max-width: 635px;
   margin: 128px 0 0;
